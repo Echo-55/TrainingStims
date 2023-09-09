@@ -1,0 +1,10 @@
+{
+    "_id": "Training_Stim_5",
+    "_tpl": "Training_Stim_5",
+    "parentId": "hideout",
+    "slotId": "hideout",
+    "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 999999999
+    }
+}

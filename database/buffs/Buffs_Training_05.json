@@ -1,0 +1,29 @@
+[
+    {
+        "BuffType": "SkillRate",
+        "Chance": 1,
+        "Delay": 1,
+        "Duration": 3000,
+        "Value": 40,
+        "AbsoluteValue": true,
+        "SkillName": "Endurance"
+    },
+    {
+        "BuffType": "SkillRate",
+        "Chance": 1,
+        "Delay": 1,
+        "Duration": 3000,
+        "Value": 40,
+        "AbsoluteValue": true,
+        "SkillName": "Strength"
+    },
+    {
+        "BuffType": "SkillRate",
+        "Chance": 1,
+        "Delay": 1,
+        "Duration": 3000,
+        "Value": 50,
+        "AbsoluteValue": true,
+        "SkillName": "RecoilControl"
+    }
+]

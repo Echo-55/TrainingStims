@@ -1,0 +1,20 @@
+[
+    {
+        "BuffType": "SkillRate",
+        "Chance": 1,
+        "Delay": 1,
+        "Duration": 3000,
+        "Value": 25,
+        "AbsoluteValue": true,
+        "SkillName": "RecoilControl"
+    },
+    {
+        "BuffType": "SkillRate",
+        "Chance": 1,
+        "Delay": 1,
+        "Duration": 3000,
+        "Value": 40,
+        "AbsoluteValue": true,
+        "SkillName": "MagDrills"
+    }
+]

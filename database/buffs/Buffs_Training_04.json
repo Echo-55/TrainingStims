@@ -1,0 +1,20 @@
+[
+    {
+        "BuffType": "DamageModifier",
+        "Chance": 1,
+        "Delay": 1,
+        "Duration": 3000,
+        "Value": -0.5,
+        "AbsoluteValue": true,
+        "SkillName": ""
+    },
+    {
+        "BuffType": "HealthRate",
+        "Chance": 1,
+        "Delay": 1,
+        "Duration": 3000,
+        "Value": 2,
+        "AbsoluteValue": true,
+        "SkillName": ""
+    }
+]

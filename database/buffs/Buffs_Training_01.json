@@ -1,0 +1,20 @@
+[
+    {
+        "BuffType": "StaminaRate",
+        "Chance": 1,
+        "Delay": 1,
+        "Duration": 3000,
+        "Value": 3,
+        "AbsoluteValue": true,
+        "SkillName": ""
+    },
+    {
+        "BuffType": "WeightLimit",
+        "Chance": 1,
+        "Delay": 1,
+        "Duration": 3000,
+        "Value": 0.27,
+        "AbsoluteValue": false,
+        "SkillName": ""
+    }
+]

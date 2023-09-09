@@ -1,0 +1,68 @@
+{
+    "items": {
+        "Training_Stim_1": "database/items/Training_Stim_1.json",
+        "Training_Stim_2": "database/items/Training_Stim_2.json",
+        "Training_Stim_3": "database/items/Training_Stim_3.json",
+        "Training_Stim_4": "database/items/Training_Stim_4.json",
+        "Training_Stim_5": "database/items/Training_Stim_5.json"
+    },
+    "templates": {
+        "items": {
+            "Training_Stim_1": "database/templates/items/Training_Stim_1.json",
+            "Training_Stim_2": "database/templates/items/Training_Stim_2.json",
+            "Training_Stim_3": "database/templates/items/Training_Stim_3.json",
+            "Training_Stim_4": "database/templates/items/Training_Stim_4.json",
+            "Training_Stim_5": "database/templates/items/Training_Stim_5.json"
+        },
+        "handbook": {
+            "Training_Stim_1": "database/templates/handbook/Training_Stim_1.json",
+            "Training_Stim_2": "database/templates/handbook/Training_Stim_2.json",
+            "Training_Stim_3": "database/templates/handbook/Training_Stim_3.json",
+            "Training_Stim_4": "database/templates/handbook/Training_Stim_4.json",
+            "Training_Stim_5": "database/templates/handbook/Training_Stim_5.json"
+        }
+    },
+    "locales": {
+        "en": {
+            "templates": {
+                "Training_Stim_1": "database/locales/en/Training_Stim_1.json",
+                "Training_Stim_2": "database/locales/en/Training_Stim_2.json",
+                "Training_Stim_3": "database/locales/en/Training_Stim_3.json",
+                "Training_Stim_4": "database/locales/en/Training_Stim_4.json",
+                "Training_Stim_5": "database/locales/en/Training_Stim_5.json"
+            }
+        }
+    },
+    "assort": {
+        "therapist": {
+            "items": {
+                "Training_Stim_1": "database/assort/items/Training_Stim_1.json",
+                "Training_Stim_2": "database/assort/items/Training_Stim_2.json",
+                "Training_Stim_3": "database/assort/items/Training_Stim_3.json",
+                "Training_Stim_4": "database/assort/items/Training_Stim_4.json",
+                "Training_Stim_5": "database/assort/items/Training_Stim_5.json"
+            },
+            "loyal_level_items": {
+                "Training_Stim_1": "database/assort/loyal_level_items/Training_Stim_1.json",
+                "Training_Stim_2": "database/assort/loyal_level_items/Training_Stim_2.json",
+                "Training_Stim_3": "database/assort/loyal_level_items/Training_Stim_3.json",
+                "Training_Stim_4": "database/assort/loyal_level_items/Training_Stim_4.json",
+                "Training_Stim_5": "database/assort/loyal_level_items/Training_Stim_5.json"
+            },
+            "barter_scheme": {
+                "Training_Stim_1": "database/assort/barter_scheme/Training_Stim_1.json",
+                "Training_Stim_2": "database/assort/barter_scheme/Training_Stim_2.json",
+                "Training_Stim_3": "database/assort/barter_scheme/Training_Stim_3.json",
+                "Training_Stim_4": "database/assort/barter_scheme/Training_Stim_4.json",
+                "Training_Stim_5": "database/assort/barter_scheme/Training_Stim_5.json"
+            }
+        }
+    },
+    "buffs": {
+        "Buffs_Training_01": "database/buffs/Buffs_Training_01.json",
+        "Buffs_Training_02": "database/buffs/Buffs_Training_02.json",
+        "Buffs_Training_03": "database/buffs/Buffs_Training_03.json",
+        "Buffs_Training_04": "database/buffs/Buffs_Training_04.json",
+        "Buffs_Training_05": "database/buffs/Buffs_Training_05.json"
+    }
+}

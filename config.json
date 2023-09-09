@@ -1,0 +1,67 @@
+{
+    "enable_all": true,
+    "Training_Stim_1": {
+        "customUseAmountEnabled": false,
+        "useAmount": 10,
+        "customBarterEnabled": false,
+        "price": 555,
+        "currency": "5449016a4bdc2d6f028b456f",
+        "customEffectsEnabled": false,
+        "effect": [
+            {
+                "BuffType": "WeightLimit",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 4000,
+                "Value": 3,
+                "AbsoluteValue": true,
+                "SkillName": ""
+            },
+            {
+                "BuffType": "StaminaRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 3000,
+                "Value": 3,
+                "AbsoluteValue": true,
+                "SkillName": ""
+            }
+        ]
+    },
+    "Training_Stim_2": {
+        "customUseAmountEnabled": false,
+        "useAmount": 1,
+        "customBarterEnabled": false,
+        "price": 69,
+        "currency": "5449016a4bdc2d6f028b456f",
+        "customEffectsEnabled": false,
+        "effect": {}
+    },
+    "Training_Stim_3": {
+        "customUseAmountEnabled": false,
+        "useAmount": 1,
+        "customBarterEnabled": false,
+        "price": 1337,
+        "currency": "5449016a4bdc2d6f028b456f",
+        "customEffectsEnabled": false,
+        "effect": {}
+    },
+    "Training_Stim_4": {
+        "customUseAmountEnabled": false,
+        "useAmount": 1,
+        "customBarterEnabled": false,
+        "price": 6969,
+        "currency": "5449016a4bdc2d6f028b456f",
+        "customEffectsEnabled": false,
+        "effect": {}
+    },
+    "Training_Stim_5": {
+        "customUseAmountEnabled": false,
+        "useAmount": 1,
+        "customBarterEnabled": false,
+        "price": 8008135,
+        "currency": "5449016a4bdc2d6f028b456f",
+        "customEffectsEnabled": false,
+        "effect": {}
+    }
+}
